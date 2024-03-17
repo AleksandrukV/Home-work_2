@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Task_1.cpp" />
+    <ClCompile Include="Task_2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Library.h" />
